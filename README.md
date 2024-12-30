@@ -1,5 +1,5 @@
 
-# Analysis of Marriott Hotel Bookings
+# Analysis of Marriott Hotels Bookings
 ![images](https://github.com/user-attachments/assets/a69daf6a-bc57-4e5b-a75a-6dcba06f7ad5)
 
 ## Objective
